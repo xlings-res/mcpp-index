@@ -5,8 +5,8 @@
       "format_version": 1,
       "index_version": "dc31c82",
       "index_name": "mcpp",
-      "generated_at": "2026-07-12T14:20:46Z",
-      "source_commit": "dc31c828b16c365847540746b79426b5a55fe06e",
+      "generated_at": "2026-07-12T15:00:00Z",
+      "source_commit": "dc31c82",
       "artifact": {
         "name": "mcpp-index-dc31c82.tar.gz",
         "sha256": "31a191270c91e89ba31f34f35029e0d8a22940cfef783ad764c8d3cb007a16da",
