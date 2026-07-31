@@ -5,11 +5,11 @@
       "format_version": 1,
       "index_version": "8d67478",
       "index_name": "mcpp",
-      "generated_at": "2026-07-30T19:12:09Z",
+      "generated_at": "2026-07-31T19:10:13Z",
       "source_commit": "8d674787db884640db6b79425be694d287e5a88a",
       "artifact": {
         "name": "mcpp-index-8d67478.tar.gz",
-        "sha256": "591834acdcdded66473461854f8ecb922ea4386b4eaa711a6b6119e1a95a0903",
+        "sha256": "6d780572d5a592f06d935e1b211a7a3a6230583675a42176af2013db5e43a9be",
         "size": 150667
       },
       "signature": null
