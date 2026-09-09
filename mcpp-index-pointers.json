@@ -5,12 +5,12 @@
       "format_version": 1,
       "index_version": "c237104",
       "index_name": "mcpp",
-      "generated_at": "2026-09-09T17:19:56Z",
+      "generated_at": "2026-09-09T20:13:42Z",
       "source_commit": "c23710437d5aec2915024ab7ad51492bb83fbd67",
       "artifact": {
         "name": "mcpp-index-c237104.tar.gz",
-        "sha256": "a5359b52179dcd0e41dfda44eb52cc02ded123ffee2e14df9a7127ac687d63e8",
-        "size": 520241
+        "sha256": "e1b42729ae2a44f35052c019e4c7b3d0daba3aaa1ad41f487d27d87101065495",
+        "size": 520242
       },
       "signature": null
     }
