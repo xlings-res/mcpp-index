@@ -3,14 +3,14 @@
   "indexes": {
     "mcpp": {
       "format_version": 1,
-      "index_version": "c7f4cad",
+      "index_version": "2b7ef4a",
       "index_name": "mcpp",
-      "generated_at": "2026-11-18T02:15:25Z",
-      "source_commit": "c7f4cad60132e14ea1f666ca6f7adf5053e990c7",
+      "generated_at": "2026-11-18T05:21:29Z",
+      "source_commit": "2b7ef4a3f80497429840efd75de94431d5ee4b3f",
       "artifact": {
-        "name": "mcpp-index-c7f4cad.tar.gz",
-        "sha256": "e6f0438f2c868ce9534e97e81186e39f48837ecbbe172730d7b0810b1cb275f1",
-        "size": 694553
+        "name": "mcpp-index-2b7ef4a.tar.gz",
+        "sha256": "ec0faa2fb429c872d38e2bcd0b8ee3505f501ff51ad8914661ba2c0d6471ecc9",
+        "size": 694863
       },
       "signature": null
     }
